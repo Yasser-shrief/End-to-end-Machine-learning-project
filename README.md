@@ -27,7 +27,7 @@ there is no particular need to adjust to changing data rapidly, and the data is 
 enough to fit in memory, so plain batch learning should do just fine.
 
 In this project, we will go through an example project end to end, pretending to be a
-recently hired data scientist in a real estate company.1 Here are the main steps you will
+recently hired data scientist in a real estate company. Here are the main steps you will
 go through:
 1. Look at the big picture.
 2. Get the data.
