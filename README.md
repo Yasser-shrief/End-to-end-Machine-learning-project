@@ -14,6 +14,18 @@ price in any district, given all the other metrics.
 When you are learning about Machine Learning it is best to actually experiment with
 real-world data, not just artificial datasets.
 
+it is clearly a typical **supervised** learning project
+since you are given labeled training examples (each instance comes with the expected
+output, i.e., the district’s `median housing price`). Moreover, it is also a typical **regression**
+task, since you are asked to predict a value. More specifically, this is a multiple
+regression problem since the system will use multiple features to make a prediction (it
+will use the district’s population, the median income, etc.). It is also a univariate
+regression problem since we are only trying to predict a single value for each district.
+If we were trying to predict multiple values per district, it would be a multivariate
+regression problem. Finally, there is no continuous flow of data coming in the system,
+there is no particular need to adjust to changing data rapidly, and the data is small
+enough to fit in memory, so plain batch learning should do just fine.
+
 In this project, we will go through an example project end to end, pretending to be a
 recently hired data scientist in a real estate company.1 Here are the main steps you will
 go through:
