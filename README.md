@@ -1,5 +1,5 @@
 # End-to-end-Machine-learning-project
-## Build a model of housing prices in California 
+
 
 Welcome to Machine Learning Housing Corporation! Our project objective is build a model of housing prices in California using the California census
 data. This data has metrics such as the population, median income, median housing
