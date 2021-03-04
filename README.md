@@ -38,4 +38,4 @@ go through:
 7. Present your solution.
 8. Launch, monitor, and maintain your system.
 
-This project is an attempt to summarize chapter 2 from the book "Hands On Machine Learning With Scikit-learn , Keras &Tensorflow".
+
